@@ -22,7 +22,6 @@ hi, i'm [Sahil Gupta](https://sahilg0portfolio.netlify.app/), a passionate self-
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-<code>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/sahilg50/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="C++" height="30px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="30px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -31,8 +30,9 @@ hi, i'm [Sahil Gupta](https://sahilg0portfolio.netlify.app/), a passionate self-
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='30px'/> </a>
-</code>
 
+
+<br/>
 <br/>
 <br/>
 
