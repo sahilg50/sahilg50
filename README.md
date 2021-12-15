@@ -40,23 +40,18 @@ hi, i'm [Sahil Gupta](https://sahilg0portfolio.netlify.app/), a passionate self-
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.25 % 
-HTML         2 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.20 % 
-JSX          1 hr 59 mins    ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+ML           3 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.25 % 
+C++          2 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.20 % 
+React        1 hr 59 mins    ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
 JavaScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 ```
 <!--END_SECTION:waka-->
 
 <br/>
 
-
-
-<br>
-
 📈 my github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilg50&show_icons=true&theme=radical)
 
-
-
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=sahilg50&show_icons=true&hide=[%22issues%22]&card_width=100px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilg50&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
