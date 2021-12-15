@@ -30,6 +30,7 @@ hi, i'm [Sahil Gupta](https://sahilg0portfolio.netlify.app/), a passionate self-
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="30px" src="https://github.com/sahilg50/README_icons/blob/main/language_and_tools/square/redux/redux.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="30px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg" align="left" alt="git" height='25px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='30px'/> </a>
 
 
