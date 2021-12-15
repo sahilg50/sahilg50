@@ -1,6 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sahil Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="sahilgupta.312000@gmail.com">
+  <img align="left"  width="22px" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
 </a>
 <a href="https://www.linkedin.com/in/sahil-gupta-0794b9194/">
   <img align="left" alt="Sahil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
