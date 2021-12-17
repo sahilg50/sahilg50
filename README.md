@@ -20,6 +20,7 @@ hi, i'm [Sahil Gupta](https://sahilg0portfolio.netlify.app/), a passionate self-
   
 - 💼 any freelance work? do reach, [email](sahilgupta.312000@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- :octocat: <a href="https://drive.google.com/file/d/1mXjANW4wAsmV9Y2wgY6zpHZOK243z76P/view?usp=sharing">My Resume</a>
 
 **🔨languages and tools:**  
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/sahilg50/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="C++" height="30px"/> </a> 
