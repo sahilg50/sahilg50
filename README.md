@@ -1,13 +1,11 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Sahil Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<a href="https://www.linkedin.com/in/sahil-gupta-0794b9194/">
+  <img align="left" width="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
 <a href="sahilgupta.312000@gmail.com">
-  <img align="left"  width="22px" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
+  <img align="left"  width="30" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
 </a>
-<a href="https://www.linkedin.com/in/sahil-gupta-0794b9194/">
-  <img align="left" alt="Sahil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sahilg50.sahil50)
 
@@ -20,9 +18,9 @@ hi, i'm [Sahil Gupta](https://sahilg0portfolio.netlify.app/), a passionate self-
   
 - 💼 any freelance work? do reach, [email](sahilgupta.312000@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-- :octocat: <a href="https://drive.google.com/file/d/1G9NyqmJgyv43Np41esYQkSjhCoPJwXJd/view?usp=sharing">My Resume</a>
+- :octocat: <a href="https://drive.google.com/file/d/1drjeeXvI_J9ZkchEt9v8JQbBgaQbpKqq/view?usp=sharing">My Resume</a>
 
-**🔨languages and tools:**  
+**🔨 languages and tools:**  
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/sahilg50/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="C++" height="30px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="30px"/> </a> 
